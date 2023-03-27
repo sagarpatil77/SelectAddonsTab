@@ -1,0 +1,30 @@
+.MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-pjjt8i-MuiToolbar-root{
+    background-color: #162242;
+    color: #fff;
+    font-size: 6px;
+    }
+    .css-177gid-MuiTableCell-root{
+        padding:0px !important;
+        width: 200px;
+    }
+    .css-1whpjm6-MuiToolbar-root{
+        background-color: #162242 !important;
+        color: #fff;
+    }
+    Button{
+      background-color: transparent !important;
+      color: #4883c6;
+      border: 1px solid #4883c6;
+      height: 30px;
+      border-radius: 5px;
+
+    }
+    .css-1q1u3t4-MuiTableRow-root.Mui-selected{
+background-color: #00c389 !important;
+color: #fff !important;
+    }
+    .css-1q1u3t4-MuiTableRow-root.Mui-selected td span{
+        
+        color: #fff !important;
+            }
+
